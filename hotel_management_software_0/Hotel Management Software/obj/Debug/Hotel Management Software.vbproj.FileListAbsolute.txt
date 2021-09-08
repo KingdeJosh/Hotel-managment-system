@@ -1,0 +1,198 @@
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\bin\Debug\HMS.exe.config
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\bin\Debug\HMS.exe
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\bin\Debug\HMS.pdb
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\bin\Debug\HMS.xml
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel Management Software.vbprojResolveAssemblyReference.cache
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmGeneralDayBook.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmExpense.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmCurrency.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmPurchase.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmPurchaseDaybook.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmSupplier.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmTrialBalance.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmLaundryBilling.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmDeliveryPerson.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmReservation.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmCustomersList.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmFinalBillRecord.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmKitchen_Section.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmRoom.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmKOTReport.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmLaundryBillingReport.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmAttendance.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmWeb.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmCategory.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmSMSSetting.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmContactMe.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmCheckInRecord.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmCheckInReport.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmCheckIN.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmIdReport.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmCheckOut.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmCurrentAdvanceList.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmDish.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmEmployeePayment.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmEmployeePaymentRecord.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmEmployeeRegistration.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmChargeBed.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmExtraPerson.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmGuest.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmGuestRecord.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmGuestReport.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmHall.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmHallReservationInvoice.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmIDType.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmLaundryBill.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmLogin.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmSalaryslip.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmRestaurantBill.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmRoomReservationReport.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmGardenReservationReport.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmRoomOrdersReport.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmAttendanceEntryRecord.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmRestaurantBillingReport.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmOrdersList.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmOrder.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmReservation_HallorGarden.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmLiquidEntry.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmPlan.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmTax.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmHotel.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmLogs.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmSplash.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmAboutBox1.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmRegistration.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.frmMainMenu.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel_Management_System.Resources.resources
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\Hotel Management Software.vbproj.GenerateResource.Cache
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\HMS.exe
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\HMS.xml
+C:\Users\Vaibhav-PC\Desktop\New folder (2)\Hotel Management Software\obj\Debug\HMS.pdb
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\bin\Debug\HMS.exe.config
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\HMS.xml
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel Management Software.vbprojResolveAssemblyReference.cache
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmGeneralDayBook.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmExpense.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmCurrency.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmPurchase.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmPurchaseDaybook.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmSupplier.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmTrialBalance.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmLaundryBilling.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmDeliveryPerson.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmReservation.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmCustomersList.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmFinalBillRecord.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmKitchen_Section.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmRoom.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmKOTReport.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmLaundryBillingReport.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmAttendance.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmWeb.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmCategory.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmSMSSetting.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmContactMe.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmCheckInRecord.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmCheckInReport.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmCheckIN.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmIdReport.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmCheckOut.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmCurrentAdvanceList.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmDish.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmEmployeePayment.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmEmployeePaymentRecord.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmEmployeeRegistration.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmChargeBed.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmExtraPerson.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmGuest.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmGuestRecord.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmGuestReport.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmHall.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmHallReservationInvoice.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmIDType.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmLaundryBill.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmLogin.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmSalaryslip.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmRestaurantBill.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmRoomReservationReport.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmGardenReservationReport.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmRoomOrdersReport.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmAttendanceEntryRecord.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmRestaurantBillingReport.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmOrdersList.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmOrder.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmReservation_HallorGarden.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmLiquidEntry.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmPlan.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmTax.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmHotel.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmLogs.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmSplash.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmAboutBox1.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmRegistration.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmMainMenu.resources
+D:\My Files\Zipped\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel Management Software.vbproj.GenerateResource.Cache
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\bin\Debug\HMS.exe.config
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\HMS.xml
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel Management Software.vbprojResolveAssemblyReference.cache
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmGeneralDayBook.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmExpense.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmCurrency.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmPurchase.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmPurchaseDaybook.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmSupplier.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmTrialBalance.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmLaundryBilling.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmDeliveryPerson.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmReservation.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmCustomersList.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmFinalBillRecord.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmKitchen_Section.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmRoom.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmKOTReport.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmLaundryBillingReport.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmAttendance.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmWeb.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmCategory.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmSMSSetting.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmContactMe.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmCheckInRecord.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmCheckInReport.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmCheckIN.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmIdReport.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmCheckOut.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmCurrentAdvanceList.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmDish.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmEmployeePayment.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmEmployeePaymentRecord.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmEmployeeRegistration.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmChargeBed.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmExtraPerson.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmGuest.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmGuestRecord.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmGuestReport.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmHall.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmHallReservationInvoice.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmIDType.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmLaundryBill.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmLogin.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmSalaryslip.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmRestaurantBill.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmRoomReservationReport.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmGardenReservationReport.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmRoomOrdersReport.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmAttendanceEntryRecord.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmRestaurantBillingReport.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmOrdersList.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmOrder.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmReservation_HallorGarden.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmLiquidEntry.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmPlan.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmTax.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmHotel.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmLogs.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmSplash.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmAboutBox1.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmRegistration.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel_Management_System.frmMainMenu.resources
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_software_0\Hotel Management Software\obj\Debug\Hotel Management Software.vbproj.GenerateResource.Cache

@@ -1,0 +1,227 @@
+E:\Projects\Hotel Management System(Sql Server)\bin\Debug\Hotel Management System.exe.config
+E:\Projects\Hotel Management System(Sql Server)\bin\Debug\Hotel Management System.exe
+E:\Projects\Hotel Management System(Sql Server)\bin\Debug\Hotel Management System.pdb
+E:\Projects\Hotel Management System(Sql Server)\bin\Debug\Hotel Management System.xml
+E:\Projects\Hotel Management System(Sql Server)\bin\Debug\TouchlessLib.pdb
+E:\Projects\Hotel Management System(Sql Server)\bin\Debug\TouchlessLib.xml
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel Management System.vbprojResolveAssemblyReference.cache
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmOrdersRecord1.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmRestaurantKOTBillRecord.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmTable.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmLaundryBill.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmRestaurantBillingKOT.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmRestaurantBillingKOTRecord.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmLaundryBillingRecord.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmLaundryBilling.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmSecurityCheck.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmDeductionReport.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmAdvanceEntryReport.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmSalaryslip.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmCamera.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmLaundry_master.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmGuestReport.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmFoodOrderBill.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmRestaurantBill.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmHallReservationInvoice.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmGardenReservationInvoice.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmRoomBill.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmHallReservationReport.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmEmployeePaymentReport.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmSalarySlipsReport.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmRoomReservationReport.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmGardenReservationReport.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmRoomOrdersReport.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmRestaurantBillingRecord.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmActivation.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmTotalAttendanceRecord.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmEmployeePaymentRecord1.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmEmployeePaymentRecord.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmEmployeePayment.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmAttendanceEntryRecord.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmAttendance.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmDeductionRecord.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmCurrentAdvanceList.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmAdvanceEntryRecord.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmAdvanceEntry.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmEmployeesRecord.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmEmployeeRegistration.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmCheckInWithIdReport.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmCheckout_IdReport.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmClient.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmServer.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmCheckInReport.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmCheckoutReport.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmRoomAvailability.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmRestaurantBillingRecord1.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmRestaurantBillingReport.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmRestaurantBilling.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmOrdersRecord.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmOthersRecord.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmReservationRecord_HallOrGarden.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmCheckOutRecord.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmStockRecord.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmStock.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmCheckOut_Room.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmOrder.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmCheckInRecord.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmIDType.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmReservationRecord2.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmReservationRecord1.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmReservationRecord.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmReservation.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmCheckIN_Room.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmTransactionRecord.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmTransaction.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmPurchasedInventoryRecord.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmPurchasedInventory.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmGuestRecord1.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmReport.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmReservation_HallorGarden.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmLiquorRate.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmGuestRecord.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmLiquor.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmLiquorQuantity.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmLiquorCategory.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmGuest.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmExtraPerson.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmExtraBed.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmDish.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmRoom.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmHall.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmGarden.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmTax.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmCategory.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmHotel.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmRoomType.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmLogs.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmSplash.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmAboutBox1.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmChangePassword.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmRegistration.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmLogin.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmMainMenu.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.Resources.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmSystemInfo.resources
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel Management System.vbproj.GenerateResource.Cache
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel Management System.exe
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel Management System.xml
+E:\Projects\Hotel Management System(Sql Server)\obj\Debug\Hotel Management System.pdb
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\bin\Debug\Hotel Management System.exe
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\bin\Debug\CloudToolkitN6.dll
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\bin\Debug\Hotel Management System.exe.config
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\bin\Debug\TouchlessLib.dll
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\bin\Debug\log4net.dll
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\bin\Debug\TouchlessLib.pdb
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\bin\Debug\TouchlessLib.xml
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmOrdersRecord1.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmRestaurantKOTBillRecord.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmTable.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmLaundryBill.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmRestaurantBillingKOT.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmRestaurantBillingKOTRecord.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmLaundryBillingRecord.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmLaundryBilling.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmSecurityCheck.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmDeductionReport.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmAdvanceEntryReport.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmSalaryslip.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmCamera.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmLaundry_master.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmGuestReport.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmFoodOrderBill.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmRestaurantBill.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmHallReservationInvoice.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmGardenReservationInvoice.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmRoomBill.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmHallReservationReport.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmEmployeePaymentReport.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmSalarySlipsReport.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmRoomReservationReport.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmGardenReservationReport.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmRoomOrdersReport.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmRestaurantBillingRecord.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmActivation.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmTotalAttendanceRecord.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmEmployeePaymentRecord1.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmEmployeePaymentRecord.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmEmployeePayment.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmAttendanceEntryRecord.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmAttendance.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmDeductionRecord.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmCurrentAdvanceList.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmAdvanceEntryRecord.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmAdvanceEntry.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmEmployeesRecord.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmEmployeeRegistration.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmCheckInWithIdReport.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmCheckout_IdReport.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmClient.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmServer.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmCheckInReport.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmCheckoutReport.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmRoomAvailability.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmRestaurantBillingRecord1.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmRestaurantBillingReport.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmRestaurantBilling.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmOrdersRecord.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmOthersRecord.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmReservationRecord_HallOrGarden.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmCheckOutRecord.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmStockRecord.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmStock.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmCheckOut_Room.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmOrder.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmCheckInRecord.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmIDType.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmReservationRecord2.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmReservationRecord1.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmReservationRecord.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmReservation.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmCheckIN_Room.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmTransactionRecord.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmTransaction.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmPurchasedInventoryRecord.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmPurchasedInventory.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmGuestRecord1.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmReport.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmReservation_HallorGarden.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmLiquorRate.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmGuestRecord.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmLiquor.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmLiquorQuantity.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmLiquorCategory.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmGuest.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmExtraPerson.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmExtraBed.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmDish.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmRoom.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmHall.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmGarden.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmTax.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmCategory.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmHotel.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmRoomType.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmLogs.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmSplash.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmAboutBox1.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmChangePassword.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmRegistration.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmLogin.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmMainMenu.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.Resources.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel_Management_System.frmSystemInfo.resources
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel Management System.exe
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel Management System.xml
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\obj\Debug\Hotel Management System.pdb
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\bin\Debug\Hotel Management System.pdb
+C:\Documents and Settings\ADMIN\My Documents\Downloads\Compressed\Hotel Management System(Sql Server)\Hotel Management System(Sql Server)\bin\Debug\Hotel Management System.xml
+D:\My Files\Zipped\hotel_management_system\Hotel Management System\bin\Debug\Hotel Management System.exe.config
+D:\My Files\Zipped\hotel_management_system\Hotel Management System\obj\Debug\Hotel Management System.xml
+D:\My Files\Zipped\hotel_management_system\Hotel Management System\obj\Debug\Hotel Management System.pdb
+D:\My Files\Zipped\hotel_management_system\Hotel Management System\obj\Debug\Hotel Management System.vbprojResolveAssemblyReference.cache
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_system\Hotel Management System\bin\Debug\Hotel Management System.exe.config
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_system\Hotel Management System\obj\Debug\Hotel Management System.xml
+C:\Users\Akujobi Joshua\Documents\skido\hotel_management_system\Hotel Management System\obj\Debug\Hotel Management System.pdb

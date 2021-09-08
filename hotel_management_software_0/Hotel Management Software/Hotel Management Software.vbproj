@@ -1,0 +1,1266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{06F1E7D7-17D4-46CF-8C4C-141DA8FF820C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Hotel_Management_System.My.MyApplication</StartupObject>
+    <RootNamespace>Hotel_Management_System</RootNamespace>
+    <AssemblyName>HMS</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>HMS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>HMS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>download.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>HMS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\Hotel Management System.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.vb</CodeAnalysisModuleSuppressionsFile>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>HMS.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\Hotel Management System.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.vb</CodeAnalysisModuleSuppressionsFile>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisRuleDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|Itanium'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Itanium\Debug\</OutputPath>
+    <DocumentationFile>HMS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>Itanium</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\Hotel Management System.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.vb</CodeAnalysisModuleSuppressionsFile>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|Itanium'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Itanium\Release\</OutputPath>
+    <DocumentationFile>HMS.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>Itanium</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\Hotel Management System.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.vb</CodeAnalysisModuleSuppressionsFile>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DocumentationFile>HMS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\Hotel Management System.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.vb</CodeAnalysisModuleSuppressionsFile>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DocumentationFile>HMS.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\Hotel Management System.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.vb</CodeAnalysisModuleSuppressionsFile>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CloudToolkitN6">
+      <HintPath>..\..\Hotel Management System\bin\Debug\CloudToolkitN6.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.ConnectionInfo, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Microsoft SQL Server\120\SDK\Assemblies\Microsoft.SqlServer.ConnectionInfo.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Management.Sdk.Sfc, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Microsoft SQL Server\120\SDK\Assemblies\Microsoft.SqlServer.Management.Sdk.Sfc.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Smo, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Microsoft SQL Server\120\SDK\Assemblies\Microsoft.SqlServer.Smo.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Printing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="TouchlessLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\TouchlessLib.dll</HintPath>
+    </Reference>
+    <Reference Include="WebCamLib, Version=0.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\WebCamLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmGeneralDayBook.Designer.vb">
+      <DependentUpon>frmGeneralDayBook.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGeneralDayBook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExpense.Designer.vb">
+      <DependentUpon>frmExpense.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmExpense.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCurrency.Designer.vb">
+      <DependentUpon>frmCurrency.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCurrency.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPurchase.Designer.vb">
+      <DependentUpon>frmPurchase.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPurchase.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPurchaseDaybook.Designer.vb">
+      <DependentUpon>frmPurchaseDaybook.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPurchaseDaybook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSupplier.Designer.vb">
+      <DependentUpon>frmSupplier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSupplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTrialBalance.Designer.vb">
+      <DependentUpon>frmTrialBalance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTrialBalance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLaundryBilling.Designer.vb">
+      <DependentUpon>frmLaundryBilling.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLaundryBilling.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDeliveryPerson.Designer.vb">
+      <DependentUpon>frmDeliveryPerson.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDeliveryPerson.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReservation.Designer.vb">
+      <DependentUpon>frmReservation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReservation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomersList.Designer.vb">
+      <DependentUpon>frmCustomersList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCustomersList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFinalBillRecord.Designer.vb">
+      <DependentUpon>frmFinalBillRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmFinalBillRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rptReservationInvoice.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptReservationInvoice.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptRestaurantBillingKOT.vb">
+      <DependentUpon>rptRestaurantBillingKOT.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="frmKitchen_Section.Designer.vb">
+      <DependentUpon>frmKitchen_Section.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmKitchen_Section.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRoom.Designer.vb">
+      <DependentUpon>frmRoom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRoom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKOTReport.Designer.vb">
+      <DependentUpon>frmKOTReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmKOTReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLaundryBillingReport.Designer.vb">
+      <DependentUpon>frmLaundryBillingReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLaundryBillingReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAttendance.Designer.vb">
+      <DependentUpon>frmAttendance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAttendance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWeb.Designer.vb">
+      <DependentUpon>frmWeb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmWeb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rptGuestLedger.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptGuestLedger.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptGeneralDayBook.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptGeneralDayBook.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptLaundryBilling.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptLaundryBilling.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptCheckIn.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptCheckIn.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptCheckOut.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptCheckOut.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptEmployeePayment.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptEmployeePayment.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptHallReservation.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptHallReservation.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptLaundryBillingInvoice.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptLaundryBillingInvoice.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptRestaurantBilling.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptRestaurantBilling.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptRoomOrders.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptRoomOrders.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="frmCategory.Designer.vb">
+      <DependentUpon>frmCategory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCategory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSMSSetting.Designer.vb">
+      <DependentUpon>frmSMSSetting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSMSSetting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmContactMe.Designer.vb">
+      <DependentUpon>frmContactMe.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmContactMe.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCheckInRecord.Designer.vb">
+      <DependentUpon>frmCheckInRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCheckInRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCheckInReport.Designer.vb">
+      <DependentUpon>frmCheckInReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCheckInReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCheckIN.Designer.vb">
+      <DependentUpon>frmCheckIN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCheckIN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIdReport.Designer.vb">
+      <DependentUpon>frmIdReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmIdReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCheckOut.Designer.vb">
+      <DependentUpon>frmCheckOut.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCheckOut.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCurrentAdvanceList.Designer.vb">
+      <DependentUpon>frmCurrentAdvanceList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCurrentAdvanceList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDish.Designer.vb">
+      <DependentUpon>frmDish.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDish.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeePayment.Designer.vb">
+      <DependentUpon>frmEmployeePayment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeePayment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeePaymentRecord.Designer.vb">
+      <DependentUpon>frmEmployeePaymentRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeePaymentRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmployeeRegistration.Designer.vb">
+      <DependentUpon>frmEmployeeRegistration.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmployeeRegistration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChargeBed.Designer.vb">
+      <DependentUpon>frmChargeBed.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmChargeBed.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExtraPerson.Designer.vb">
+      <DependentUpon>frmExtraPerson.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmExtraPerson.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGuest.Designer.vb">
+      <DependentUpon>frmGuest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGuest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGuestRecord.Designer.vb">
+      <DependentUpon>frmGuestRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGuestRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGuestReport.Designer.vb">
+      <DependentUpon>frmGuestReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGuestReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHall.Designer.vb">
+      <DependentUpon>frmHall.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmHall.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHallReservationInvoice.Designer.vb">
+      <DependentUpon>frmHallReservationInvoice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmHallReservationInvoice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIDType.Designer.vb">
+      <DependentUpon>frmIDType.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmIDType.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLaundryBill.Designer.vb">
+      <DependentUpon>frmLaundryBill.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLaundryBill.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\ConnectionString.vb" />
+    <Compile Include="frmSalaryslip.Designer.vb">
+      <DependentUpon>frmSalaryslip.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSalaryslip.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRestaurantBill.Designer.vb">
+      <DependentUpon>frmRestaurantBill.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRestaurantBill.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRoomReservationReport.Designer.vb">
+      <DependentUpon>frmRoomReservationReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRoomReservationReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGardenReservationReport.Designer.vb">
+      <DependentUpon>frmGardenReservationReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGardenReservationReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRoomOrdersReport.Designer.vb">
+      <DependentUpon>frmRoomOrdersReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRoomOrdersReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\Encryption.vb" />
+    <Compile Include="frmAttendanceRecord.Designer.vb">
+      <DependentUpon>frmAttendanceRecord.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAttendanceRecord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\ModFunc.vb" />
+    <Compile Include="frmRestaurantBillingReport.Designer.vb">
+      <DependentUpon>frmRestaurantBillingReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRestaurantBillingReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOrdersList.Designer.vb">
+      <DependentUpon>frmOrdersList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmOrdersList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOrder.Designer.vb">
+      <DependentUpon>frmOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReservation_HallorGarden.Designer.vb">
+      <DependentUpon>frmReservation_HallorGarden.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReservation_HallorGarden.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLiquidEntry.Designer.vb">
+      <DependentUpon>frmLiquidEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLiquidEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPlan.Designer.vb">
+      <DependentUpon>frmPlan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPlan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTax.Designer.vb">
+      <DependentUpon>frmTax.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTax.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHotel.Designer.vb">
+      <DependentUpon>frmHotel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmHotel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogs.Designer.vb">
+      <DependentUpon>frmLogs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSplash.Designer.vb">
+      <DependentUpon>frmSplash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSplash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAboutBox1.Designer.vb">
+      <DependentUpon>frmAboutBox1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAboutBox1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="frmRegistration.Designer.vb">
+      <DependentUpon>frmRegistration.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\ModClasses.vb" />
+    <Compile Include="frmMainMenu.Designer.vb">
+      <DependentUpon>frmMainMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMainMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmGeneralDayBook.resx">
+      <DependentUpon>frmGeneralDayBook.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExpense.resx">
+      <DependentUpon>frmExpense.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCurrency.resx">
+      <DependentUpon>frmCurrency.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPurchase.resx">
+      <DependentUpon>frmPurchase.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPurchaseDaybook.resx">
+      <DependentUpon>frmPurchaseDaybook.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSupplier.resx">
+      <DependentUpon>frmSupplier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTrialBalance.resx">
+      <DependentUpon>frmTrialBalance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLaundryBilling.resx">
+      <DependentUpon>frmLaundryBilling.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDeliveryPerson.resx">
+      <DependentUpon>frmDeliveryPerson.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReservation.resx">
+      <DependentUpon>frmReservation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomersList.resx">
+      <DependentUpon>frmCustomersList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFinalBillRecord.resx">
+      <DependentUpon>frmFinalBillRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptReservationInvoice.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptReservationInvoice.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptRestaurantBillingKOT.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptRestaurantBillingKOT.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKitchen_Section.resx">
+      <DependentUpon>frmKitchen_Section.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRoom.resx">
+      <DependentUpon>frmRoom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKOTReport.resx">
+      <DependentUpon>frmKOTReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLaundryBillingReport.resx">
+      <DependentUpon>frmLaundryBillingReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAttendance.resx">
+      <DependentUpon>frmAttendance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWeb.resx">
+      <DependentUpon>frmWeb.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptGuestLedger.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptGuestLedger.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptGeneralDayBook.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptGeneralDayBook.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptLaundryBilling.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptLaundryBilling.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptCheckIn.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptCheckIn.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptCheckOut.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptCheckOut.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptEmployeePayment.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptEmployeePayment.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptHallReservation.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptHallReservation.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptLaundryBillingInvoice.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptLaundryBillingInvoice.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptRestaurantBilling.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptRestaurantBilling.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptRoomOrders.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptRoomOrders.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCategory.resx">
+      <DependentUpon>frmCategory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSMSSetting.resx">
+      <DependentUpon>frmSMSSetting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmContactMe.resx">
+      <DependentUpon>frmContactMe.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCheckInRecord.resx">
+      <DependentUpon>frmCheckInRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCheckInReport.resx">
+      <DependentUpon>frmCheckInReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCheckIN.resx">
+      <DependentUpon>frmCheckIN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIdReport.resx">
+      <DependentUpon>frmIdReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCheckOut.resx">
+      <DependentUpon>frmCheckOut.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCurrentAdvanceList.resx">
+      <DependentUpon>frmCurrentAdvanceList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDish.resx">
+      <DependentUpon>frmDish.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeePayment.resx">
+      <DependentUpon>frmEmployeePayment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeePaymentRecord.resx">
+      <DependentUpon>frmEmployeePaymentRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmployeeRegistration.resx">
+      <DependentUpon>frmEmployeeRegistration.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChargeBed.resx">
+      <DependentUpon>frmChargeBed.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExtraPerson.resx">
+      <DependentUpon>frmExtraPerson.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGuest.resx">
+      <DependentUpon>frmGuest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGuestRecord.resx">
+      <DependentUpon>frmGuestRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGuestReport.resx">
+      <DependentUpon>frmGuestReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHall.resx">
+      <DependentUpon>frmHall.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHallReservationInvoice.resx">
+      <DependentUpon>frmHallReservationInvoice.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIDType.resx">
+      <DependentUpon>frmIDType.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLaundryBill.resx">
+      <DependentUpon>frmLaundryBill.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSalaryslip.resx">
+      <DependentUpon>frmSalaryslip.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRestaurantBill.resx">
+      <DependentUpon>frmRestaurantBill.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRoomReservationReport.resx">
+      <DependentUpon>frmRoomReservationReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGardenReservationReport.resx">
+      <DependentUpon>frmGardenReservationReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRoomOrdersReport.resx">
+      <DependentUpon>frmRoomOrdersReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAttendanceRecord.resx">
+      <DependentUpon>frmAttendanceRecord.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRestaurantBillingReport.resx">
+      <DependentUpon>frmRestaurantBillingReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOrdersList.resx">
+      <DependentUpon>frmOrdersList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOrder.resx">
+      <DependentUpon>frmOrder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReservation_HallorGarden.resx">
+      <DependentUpon>frmReservation_HallorGarden.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLiquidEntry.resx">
+      <DependentUpon>frmLiquidEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPlan.resx">
+      <DependentUpon>frmPlan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTax.resx">
+      <DependentUpon>frmTax.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHotel.resx">
+      <DependentUpon>frmHotel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogs.resx">
+      <DependentUpon>frmLogs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSplash.resx">
+      <DependentUpon>frmSplash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAboutBox1.resx">
+      <DependentUpon>frmAboutBox1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistration.resx">
+      <DependentUpon>frmRegistration.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMainMenu.resx">
+      <DependentUpon>frmMainMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="Resources\Save_32x32.png" />
+    <None Include="Resources\Delete_32x32.png" />
+    <None Include="Resources\Close_32x32.png" />
+    <None Include="Resources\AddFile_32x32.png" />
+    <None Include="Resources\9.png" />
+    <Content Include="Dapino-Summer-Holiday-Hotel.ico" />
+    <Content Include="download.ico" />
+    <Content Include="hotel.ico" />
+    <None Include="Resources\Inbox_16x16.png" />
+    <None Include="Resources\TreeView_16x16.png" />
+    <None Include="Resources\ordering-iconssssssssssss.png" />
+    <None Include="Resources\ServerMode_16x16.png" />
+    <None Include="Resources\Employee_16x16.png" />
+    <None Include="Resources\AssignTo_16x16.png" />
+    <None Include="Resources\blue-gradient-clean-sand-texture-background-hd-500x281.jpg" />
+    <None Include="Resources\argentorawrz_1326326908_87.png" />
+    <None Include="Resources\wood_textures_1280x720.jpg" />
+    <None Include="Resources\Clients back.jpg" />
+    <None Include="Resources\Tools 3.jpg" />
+    <None Include="Resources\Tools 1.jpg" />
+    <None Include="Resources\Tools 2.jpg" />
+    <None Include="Resources\Saver Back.jpg" />
+    <None Include="Resources\Saver 2.jpg" />
+    <None Include="Resources\Saver 3.jpg" />
+    <None Include="Resources\Saver 6.jpg" />
+    <None Include="Resources\12.jpg" />
+    <None Include="Resources\login-5121.png" />
+    <None Include="Resources\1425837994checkIcon.png" />
+    <Content Include="Resources\033-512.png" />
+    <Content Include="Resources\079-512.png" />
+    <Content Include="Resources\1 %2810%29.png" />
+    <Content Include="Resources\1 %2812%29.png" />
+    <Content Include="Resources\1 %2816%29.png" />
+    <Content Include="Resources\1 %2819%29.png" />
+    <Content Include="Resources\1 %282%29.png" />
+    <Content Include="Resources\1 %2826%29.png" />
+    <Content Include="Resources\1 %2829%29.png" />
+    <Content Include="Resources\1 %286%29.png" />
+    <Content Include="Resources\1.png" />
+    <Content Include="Resources\1001.png" />
+    <Content Include="Resources\115-512 %282%29.png" />
+    <Content Include="Resources\115-512.png" />
+    <Content Include="Resources\1374.png" />
+    <None Include="Resources\1448464348547.png" />
+    <Content Include="Resources\1452835475_Towel_2.png" />
+    <Content Include="Resources\1452835481_Towel_2.png" />
+    <Content Include="Resources\1452835493_Washer_2.png" />
+    <Content Include="Resources\1452835529_Newspaper_2.png" />
+    <Content Include="Resources\1452835554_Food_2.png" />
+    <Content Include="Resources\1452835584_Newspaper.png" />
+    <Content Include="Resources\1452835590_Newspaper.png" />
+    <None Include="Resources\hotel-icon.png" />
+    <None Include="Resources\Word-icon.png" />
+    <None Include="Resources\Word-icon1.png" />
+    <None Include="Resources\Word-icon2.png" />
+    <None Include="Resources\Editing-Paint-Palette-icon.png" />
+    <None Include="Resources\Programming-System-Task-icon.png" />
+    <None Include="Resources\System-Info-icon.png" />
+    <None Include="Resources\table-xxl.png" />
+    <None Include="Resources\Activate.png" />
+    <None Include="Resources\Changing_Room-256.png" />
+    <None Include="Resources\plus-circle1.png" />
+    <None Include="Resources\18-512.png" />
+    <None Include="Resources\Household-Room-icon.png" />
+    <None Include="Resources\Menu-icon-300x300.jpg" />
+    <None Include="Resources\liquor menu.jpg" />
+    <None Include="Resources\debt-burden_medium.jpg" />
+    <None Include="Resources\stock IN.jpg" />
+    <None Include="Resources\stock out.jpg" />
+    <None Include="Resources\Laundry Biiling.png" />
+    <None Include="Resources\Biiling.jpg" />
+    <None Include="Resources\payroll advance.jpg" />
+    <None Include="Resources\Sql Server.png" />
+    <None Include="Resources\lock.png" />
+    <None Include="Resources\Lock-Lock-icon.png" />
+    <None Include="Resources\ellaa-hotels.jpg" />
+    <None Include="Resources\keio-plaxa-hotel-tokyo.jpg" />
+    <None Include="Resources\water-hotel-hd-wallpapers.jpg" />
+    <None Include="Resources\vto-icon21.png" />
+    <None Include="Resources\19-512.png" />
+    <None Include="Resources\Mail-icon.png" />
+    <None Include="Resources\Keys-icon.png" />
+    <None Include="Resources\148-512.png" />
+    <None Include="Resources\notepad-512.png" />
+    <None Include="Resources\TB.png" />
+    <None Include="Resources\supplierIcon2.png" />
+    <None Include="Resources\payment-methods_318-31881.png" />
+    <None Include="Resources\Reset2_32x32.png" />
+    <None Include="Resources\icon175x175.png" />
+    <None Include="Resources\BO_Quote.png" />
+    <None Include="Resources\GL-256.png" />
+    <None Include="Resources\Ledger.png" />
+    <None Include="Resources\Restaurant Pickup-50.png" />
+    <None Include="Resources\print-icon1.png" />
+    <None Include="Resources\apple-icon.png" />
+    <None Include="Resources\reports1.png" />
+    <None Include="Resources\Button-Ok-icon.png" />
+    <None Include="Resources\Button-Delete-icon.png" />
+    <None Include="Resources\Very-Basic-About-icon.png" />
+    <None Include="Resources\Household-Dining-Room-icon.png" />
+    <None Include="Resources\Restaurant-icon.png" />
+    <None Include="Resources\City-Restaurant-icon.png" />
+    <None Include="Resources\Restaurant-Blue-2-icon.png" />
+    <None Include="Resources\background-blog-blur.jpg" />
+    <None Include="Resources\background-wallpapers-9.jpg" />
+    <None Include="Resources\digital-waves-background.jpg" />
+    <None Include="Resources\blurred-background-20.jpg" />
+    <None Include="Resources\print-icon2.png" />
+    <None Include="Resources\Printer-icon.png" />
+    <None Include="Resources\login_icon %281%29.gif" />
+    <None Include="Resources\Login-icon.png" />
+    <None Include="Resources\hotel-icon1.png" />
+    <None Include="Resources\Database-Active-icon1.png" />
+    <None Include="Resources\Backup.jpg" />
+    <Content Include="Resources\ChatClose.wav" />
+    <Content Include="Resources\ChatMessage.wav" />
+    <Content Include="Resources\ChatOpen.wav" />
+    <Content Include="Resources\ChatPage.wav" />
+    <None Include="Resources\images~61.png" />
+    <None Include="Resources\download %281%29~3.png" />
+    <None Include="Resources\images %283%29.png" />
+    <None Include="Resources\images %284%29~1.png" />
+    <None Include="Resources\Serching.png" />
+    <None Include="Resources\images %282%29~1.png" />
+    <None Include="Resources\images~62.png" />
+    <None Include="Resources\Updates.png" />
+    <None Include="Resources\images %2811%29~2.png" />
+    <None Include="Resources\images %283%29~3.png" />
+    <None Include="Resources\download %288%29.png" />
+    <None Include="Resources\images %285%29~2.png" />
+    <None Include="Resources\download %284%29~1.png" />
+    <None Include="Resources\download %282%29~2.png" />
+    <None Include="Resources\images %2817%29~1.png" />
+    <None Include="Resources\images %2810%29~1.png" />
+    <None Include="Resources\images %288%29~1.png" />
+    <None Include="Resources\download %285%29~1.png" />
+    <None Include="Resources\download %287%29~1.png" />
+    <None Include="Resources\download %288%29~1.png" />
+    <None Include="Resources\images %2815%29.png" />
+    <None Include="Resources\images %285%291.jpg" />
+    <None Include="Resources\imagesf.jpg" />
+    <None Include="Resources\images %2813%29.png" />
+    <None Include="Resources\download %289%29.png" />
+    <None Include="Resources\Vaibhav Patidar.jpg" />
+    <None Include="Resources\restaurant-939435_960_720.jpg" />
+    <None Include="Resources\customers.png" />
+    <None Include="Resources\images %285%29~1.png" />
+    <None Include="Resources\images %2813%291.png" />
+    <None Include="Resources\download %285%29.png" />
+    <Content Include="sidebar_100.ico" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\top_image.jpg" />
+    <None Include="Resources\2.jpg" />
+    <None Include="Resources\Background books entry4.jpg" />
+    <None Include="Resources\0002992740595_Color_Sky-Blue_SW_60X60.gif" />
+    <None Include="Resources\0088181331020_Color_Sky-Blue_SW_60X60.gif" />
+    <None Include="Resources\booking-icon.jpg" />
+    <None Include="Resources\11949857921496995420hotel_icon_in_room_bagg_01.svg.med1.png" />
+    <None Include="Resources\hotel-icon-has-secure-storage-in-room-md.png" />
+    <None Include="Resources\11949857921496995420hotel_icon_in_room_bagg_01.svg.med.png" />
+    <None Include="Resources\hotel.jpg" />
+    <None Include="Resources\Seminyak-Icon-Hotel-Two-Bedroom-Pool-Villa-Twin-Hollywood-Bed.jpg" />
+    <None Include="Resources\icon_ci_big.png" />
+    <None Include="Resources\time_1920x12001.jpg" />
+    <None Include="Resources\images51.jpg" />
+    <None Include="Resources\time_1920x1200.jpg" />
+    <None Include="Resources\images5.jpg" />
+    <None Include="Resources\images~6.png" />
+    <None Include="Resources\images~5.png" />
+    <None Include="Resources\images~3.png" />
+    <None Include="Resources\employeesIcon200.png" />
+    <None Include="Resources\images~2.png" />
+    <None Include="Resources\c5eea9b377ba.png" />
+    <None Include="Resources\images1.png" />
+    <None Include="Resources\icon-eps02.png" />
+    <None Include="Resources\images~1.png" />
+    <None Include="Resources\Icon three1.png" />
+    <None Include="Resources\Icon three.png" />
+    <None Include="Resources\corp_employee_icon.png" />
+    <None Include="Resources\images.png" />
+    <None Include="Resources\images.jpg" />
+    <None Include="Resources\employeesIcon200.jpg" />
+    <None Include="Resources\logout.png" />
+    <None Include="Resources\salary_icon.png" />
+    <None Include="Resources\Salaries-sml.png" />
+    <None Include="Resources\attendance_list_icon.png" />
+    <None Include="Resources\payroll1.jpg" />
+    <None Include="Resources\small-business-payroll-service.jpeg" />
+    <None Include="Resources\payroll.jpg" />
+    <None Include="Resources\payroll_services.jpg" />
+    <None Include="Resources\User-icon.png" />
+    <None Include="Resources\calen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.10.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2008 Express</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Utilities.png" />
+    <None Include="Resources\Settings-L-icon.png" />
+    <None Include="Resources\login-512.png" />
+    <None Include="Resources\Payment.png" />
+    <None Include="Resources\Pivot_32x32.png" />
+    <None Include="Resources\Currency_32x322.png" />
+    <None Include="Resources\Find_32x32.png" />
+    <None Include="Resources\Currency_32x32.png" />
+    <None Include="Resources\reports.png" />
+    <None Include="Resources\icon-documentation.png" />
+    <None Include="Resources\about.png" />
+    <None Include="Resources\tools-icon.jpg" />
+    <None Include="Resources\Icon three2.png" />
+    <None Include="Resources\user-group-icon.png" />
+    <None Include="Resources\icon_paper.png" />
+    <None Include="Resources\gnome_panel_force_quit.png" />
+    <None Include="Resources\cutcaster-vector-800923370-Icon-chef-restaurant.jpg" />
+    <None Include="Resources\images3.png" />
+    <None Include="Resources\url.png" />
+    <None Include="Resources\Hotels_B-512.png" />
+    <None Include="Resources\log-128.png" />
+    <None Include="Resources\images3.jpg" />
+    <None Include="Resources\database_icon.jpg" />
+    <None Include="Resources\Money-icon.png" />
+    <None Include="Resources\Hotel-Bedroom-Interior-960x600-wide-wallpapers.net.jpg" />
+    <None Include="Resources\videos_4_background.jpg" />
+    <None Include="Resources\images2.png" />
+    <None Include="Resources\58-512.png" />
+    <None Include="Resources\images2.jpg" />
+    <None Include="Resources\DOC.jpg" />
+    <None Include="Resources\photo.jpg" />
+    <None Include="Resources\hotel1.jpg" />
+    <None Include="Resources\nice-hotel-room-photography-hd-wallpaper-1920x1080-120811.png" />
+    <None Include="Resources\1466125.png" />
+    <None Include="Resources\nice-hotel-room-photography-hd-wallpaper-1920x1080-12081.png" />
+    <None Include="Resources\nice-hotel-room-photography-hd-wallpaper-1920x1080-12081.jpg" />
+    <None Include="Resources\kvirc.png" />
+    <None Include="Resources\List manager.png" />
+    <None Include="Resources\DeleteRed.png" />
+    <None Include="Resources\wood-floor-wallpaper1.png" />
+    <None Include="Resources\ALetter.jpg" />
+    <None Include="Resources\ColorTheoryMixture.jpg" />
+    <None Include="Resources\Yes.png" />
+    <None Include="Resources\Delete.png" />
+    <None Include="Resources\Designer.png" />
+    <None Include="Resources\Grid.png" />
+    <None Include="Resources\Pencil.png" />
+    <None Include="Resources\looknfeel.png" />
+    <None Include="Resources\lassists.png" />
+    <None Include="Resources\lassist.png" />
+    <None Include="Resources\kwrite.png" />
+    <None Include="Resources\LCD Room.jpg" />
+    <None Include="Resources\wood-floor-wallpaper.png" />
+    <None Include="Resources\21.jpg" />
+    <None Include="Resources\6.jpg" />
+    <None Include="Resources\4.jpg" />
+    <None Include="Resources\3.jpg" />
+    <None Include="Resources\5.jpg" />
+    <None Include="Resources\images11.jpg" />
+    <None Include="Resources\image-of-a-person-in-bed.bmp" />
+    <None Include="Resources\images1.jpg" />
+    <None Include="Resources\GuestIcon_BIG.gif" />
+    <None Include="Resources\image-of-a-person-in-bed.png" />
+    <None Include="Resources\stock_icon_v.3.png" />
+    <None Include="Resources\order-icon.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

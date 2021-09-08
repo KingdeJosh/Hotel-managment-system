@@ -1,0 +1,2130 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HotelManagementSystem
+</name>
+</assembly>
+<members>
+<member name="T:Hotel_Management_System.HMS_DBDataSet1.ActivationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.AdvanceEntryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.CategoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Category_LiquorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.CheckIN_RoomDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Checkout_RoomDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.DishDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.EmployeeAttendanceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.EmployeePaymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.EmployeeRegistrationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.ExtraBedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.ExtraPersonDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.GardenDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.GuestDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Guest_DocsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.HallDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.HotelDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.IDTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Laundry_BillInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Laundry_MasterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.LaundryServicesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.LiquorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Liquor_RateDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Liquor_VolumnDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.LogsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.PurchasedInventoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.R_TableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.RegistrationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.ReservationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Reservation_GardenDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Reservation_HallDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Restaurant_BillingInfoKOTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Restaurant_OrderedProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Restaurant_OrderedProductBillKOTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Restaurant_OrderedProductKOTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Restaurant_OrderInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Restaurant_OrderInfoKOTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.RoomDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Room_OrderedProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Room_OrderInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.RoomTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.StockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.TaxDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.TaxPayment_RDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.TaxPayment_RGHDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Temp_ReservationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Temp_StockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.TempRestaurant_OrderedProductKOTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.TempRestaurant_OrderInfoKOTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.TransDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.ActivationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.AdvanceEntryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.CategoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Category_LiquorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.CheckIN_RoomRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Checkout_RoomRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.DishRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.EmployeeAttendanceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.EmployeePaymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.EmployeeRegistrationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.ExtraBedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.ExtraPersonRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.GardenRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.GuestRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Guest_DocsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.HallRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.HotelRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.IDTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Laundry_BillInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Laundry_MasterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.LaundryServicesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.LiquorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Liquor_RateRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Liquor_VolumnRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.LogsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.PurchasedInventoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.R_TableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.RegistrationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.ReservationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Reservation_GardenRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Reservation_HallRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Restaurant_BillingInfoKOTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Restaurant_OrderedProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Restaurant_OrderedProductBillKOTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Restaurant_OrderedProductKOTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Restaurant_OrderInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Restaurant_OrderInfoKOTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.RoomRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Room_OrderedProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Room_OrderInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.RoomTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.StockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.TaxRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.TaxPayment_RRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.TaxPayment_RGHRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Temp_ReservationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Temp_StockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.TempRestaurant_OrderedProductKOTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.TempRestaurant_OrderInfoKOTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.TransRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.ActivationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.AdvanceEntryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.CategoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Category_LiquorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.CheckIN_RoomRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Checkout_RoomRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.DishRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.EmployeeAttendanceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.EmployeePaymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.EmployeeRegistrationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.ExtraBedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.ExtraPersonRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.GardenRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.GuestRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Guest_DocsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.HallRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.HotelRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.IDTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Laundry_BillInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Laundry_MasterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.LaundryServicesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.LiquorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Liquor_RateRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Liquor_VolumnRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.LogsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.PurchasedInventoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.R_TableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.RegistrationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.ReservationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Reservation_GardenRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Reservation_HallRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Restaurant_BillingInfoKOTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Restaurant_OrderedProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Restaurant_OrderedProductBillKOTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Restaurant_OrderedProductKOTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Restaurant_OrderInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Restaurant_OrderInfoKOTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.RoomRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Room_OrderedProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Room_OrderInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.RoomTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.StockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.TaxRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.TaxPayment_RRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.TaxPayment_RGHRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Temp_ReservationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.Temp_StockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.TempRestaurant_OrderedProductKOTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.TempRestaurant_OrderInfoKOTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1.TransRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.ActivationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.AdvanceEntryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.CategoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.Category_LiquorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.CheckIN_RoomTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.Checkout_RoomTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.DishTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.EmployeeAttendanceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.EmployeePaymentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.EmployeeRegistrationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.ExtraBedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.ExtraPersonTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.GardenTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.GuestTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.Guest_DocsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.HallTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.HotelTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.IDTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.Laundry_BillInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.Laundry_MasterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.LaundryServicesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.LiquorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.Liquor_RateTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.Liquor_VolumnTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.LogsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.PurchasedInventoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.R_TableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.RegistrationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.ReservationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.Reservation_GardenTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.Reservation_HallTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.Restaurant_BillingInfoKOTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.Restaurant_OrderedProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.Restaurant_OrderedProductBillKOTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.Restaurant_OrderedProductKOTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.Restaurant_OrderInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.Restaurant_OrderInfoKOTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.RoomTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.Room_OrderedProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.Room_OrderInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.RoomTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.StockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.TaxTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.TaxPayment_RTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.TaxPayment_RGHTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.Temp_ReservationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.Temp_StockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.TempRestaurant_OrderedProductKOTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.TempRestaurant_OrderInfoKOTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.TransTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Hotel_Management_System.HMS_DBDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Hotel_Management_System.HMS_DBDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Hotel_Management_System.HMS_DBDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Hotel_Management_System.HMS_DBDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Hotel_Management_System.HMS_DBDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Hotel_Management_System.HMS_DBDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Hotel_Management_System.HMS_DBDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Hotel_Management_System.HMS_DBDataSet1TableAdapters.TableAdapterManager.UpdateAll(Hotel_Management_System.HMS_DBDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.ActivationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.AdvanceEntryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.CategoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Category_LiquorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.CheckIN_RoomDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Checkout_RoomDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.DishDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.EmployeeAttendanceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.EmployeePaymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.EmployeeRegistrationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.ExtraBedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.ExtraPersonDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.GardenDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.GuestDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Guest_DocsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.HallDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.HotelDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.IDTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.LiquorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Liquor_RateDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Liquor_VolumnDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.LogsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.PurchasedInventoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.RegistrationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.ReservationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Reservation_GardenDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Reservation_HallDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Restaurant_OrderedProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Restaurant_OrderInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.RoomDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Room_OrderedProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Room_OrderInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.RoomTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.StockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.TaxDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Temp_ReservationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Temp_StockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.TransDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.ActivationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.AdvanceEntryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.CategoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Category_LiquorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.CheckIN_RoomRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Checkout_RoomRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.DishRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.EmployeeAttendanceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.EmployeePaymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.EmployeeRegistrationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.ExtraBedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.ExtraPersonRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.GardenRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.GuestRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Guest_DocsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.HallRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.HotelRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.IDTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.LiquorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Liquor_RateRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Liquor_VolumnRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.LogsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.PurchasedInventoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.RegistrationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.ReservationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Reservation_GardenRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Reservation_HallRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Restaurant_OrderedProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Restaurant_OrderInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.RoomRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Room_OrderedProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Room_OrderInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.RoomTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.StockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.TaxRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Temp_ReservationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Temp_StockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.TransRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.ActivationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.AdvanceEntryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.CategoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Category_LiquorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.CheckIN_RoomRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Checkout_RoomRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.DishRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.EmployeeAttendanceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.EmployeePaymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.EmployeeRegistrationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.ExtraBedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.ExtraPersonRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.GardenRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.GuestRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Guest_DocsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.HallRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.HotelRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.IDTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.LiquorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Liquor_RateRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Liquor_VolumnRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.LogsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.PurchasedInventoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.RegistrationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.ReservationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Reservation_GardenRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Reservation_HallRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Restaurant_OrderedProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Restaurant_OrderInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.RoomRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Room_OrderedProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Room_OrderInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.RoomTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.StockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.TaxRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Temp_ReservationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.Temp_StockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5.TransRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.ActivationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.AdvanceEntryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.CategoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.Category_LiquorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.CheckIN_RoomTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.Checkout_RoomTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.DishTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.EmployeeAttendanceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.EmployeePaymentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.EmployeeRegistrationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.ExtraBedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.ExtraPersonTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.GardenTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.GuestTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.Guest_DocsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.HallTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.HotelTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.IDTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.LiquorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.Liquor_RateTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.Liquor_VolumnTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.LogsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.PurchasedInventoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.RegistrationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.ReservationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.Reservation_GardenTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.Reservation_HallTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.Restaurant_OrderedProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.Restaurant_OrderInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.RoomTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.Room_OrderedProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.Room_OrderInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.RoomTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.StockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.TaxTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.Temp_ReservationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.Temp_StockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.TransTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Hotel_Management_System.HMS_DBDataSet5TableAdapters.TableAdapterManager.UpdateUpdatedRows(Hotel_Management_System.HMS_DBDataSet5,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Hotel_Management_System.HMS_DBDataSet5TableAdapters.TableAdapterManager.UpdateInsertedRows(Hotel_Management_System.HMS_DBDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Hotel_Management_System.HMS_DBDataSet5TableAdapters.TableAdapterManager.UpdateDeletedRows(Hotel_Management_System.HMS_DBDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Hotel_Management_System.HMS_DBDataSet5TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Hotel_Management_System.HMS_DBDataSet5TableAdapters.TableAdapterManager.UpdateAll(Hotel_Management_System.HMS_DBDataSet5)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet5TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="M:Hotel_Management_System.Encryption.Boring(System.String)">
+	<summary>
+ moving all characters in string insert then into new index
+ </summary>
+	<param name="st">string to moving characters</param>
+	<returns>moved characters string</returns>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSet.CheckIN_RoomDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSet.GuestDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSet.HotelDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSet.Laundry_BillInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSet.Laundry_MasterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSet.LaundryServicesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSet.RoomDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSet.CheckIN_RoomRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSet.GuestRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSet.HotelRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSet.Laundry_BillInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSet.Laundry_MasterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSet.LaundryServicesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSet.RoomRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSet.CheckIN_RoomRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSet.GuestRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSet.HotelRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSet.Laundry_BillInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSet.Laundry_MasterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSet.LaundryServicesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSet.RoomRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSetTableAdapters.CheckIN_RoomTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSetTableAdapters.GuestTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSetTableAdapters.HotelTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSetTableAdapters.Laundry_BillInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSetTableAdapters.Laundry_MasterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSetTableAdapters.LaundryServicesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSetTableAdapters.RoomTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Hotel_Management_System.Laundry_DBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Hotel_Management_System.Laundry_DBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Hotel_Management_System.Laundry_DBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Hotel_Management_System.Laundry_DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Hotel_Management_System.Laundry_DBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Hotel_Management_System.Laundry_DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Hotel_Management_System.Laundry_DBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Hotel_Management_System.Laundry_DBDataSetTableAdapters.TableAdapterManager.UpdateAll(Hotel_Management_System.Laundry_DBDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Hotel_Management_System.Laundry_DBDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources._0002992740595_Color_Sky_Blue_SW_60X60">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources._0088181331020_Color_Sky_Blue_SW_60X60">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources._11949857921496995420hotel_icon_in_room_bagg_01_svg_med">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources._11949857921496995420hotel_icon_in_room_bagg_01_svg_med1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources._11949857921496995420hotel_icon_in_room_bagg_01_svg1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources._14661252">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources._2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources._21">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources._3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources._4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources._5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources._58_512">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources._6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.about">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.ALetter">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.attendance_list_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Background_books_entry4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.booking_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.booking_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.c5eea9b377ba">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.calen">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.ColorTheoryMixture">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.corp_employee_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Currency_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Currency_32x322">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.cutcaster_vector_800923370_Icon_chef_restaurant">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.database_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Delete">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.DeleteRed">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Designer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.DOC">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.employeesIcon200">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.employeesIcon2001">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.employeesIcon2002">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Find_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.gnome_panel_force_quit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Grid">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.GuestIcon_BIG">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.hotel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Hotel_Bedroom_Interior_960x600_wide_wallpapers_net">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.hotel_icon_has_secure_storage_in_room_md">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.hotel1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Hotels_B_512">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.icon_ci_big">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.icon_ci_big1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.icon_documentation">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.icon_eps02">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.icon_paper">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Icon_three">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Icon_three1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.image_of_a_person_in_bed">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.image_of_a_person_in_bed1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images_21">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images_31">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images_5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images_6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images_61">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images12">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images13">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images51">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images7">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images8">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.kvirc">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.kwrite">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.lassist">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.lassists">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.LCD_Room">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.List_manager">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.log_128">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.login_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.login_icon__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.logout">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.looknfeel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Money_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.nice_hotel_room_photography_hd_wallpaper_1920x1080_12081">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.nice_hotel_room_photography_hd_wallpaper_1920x1080_120811">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.nice_hotel_room_photography_hd_wallpaper_1920x1080_120812">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.order_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Payment">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.payroll">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.payroll_services">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.payroll1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.payroll11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.payroll2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.payroll3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Pencil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.photo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Pivot_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.reports">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Salaries_sml">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.salary_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.salary_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Seminyak_Icon_Hotel_Two_Bedroom_Pool_Villa_Twin_Hollywood_Bed">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.small_business_payroll_service">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.stock_icon_v_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.stock_icon_v1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.time_1920x1200">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.time_1920x12001">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.tools_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.top_image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.url">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.user_group_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.User_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.videos_4_background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.wood_floor_wallpaper">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.wood_floor_wallpaper1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Yes">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Hotel_Management_System.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

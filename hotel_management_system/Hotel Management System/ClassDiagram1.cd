@@ -1,0 +1,1549 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Hotel_Management_System.My.MyApplication" Collapsed="true">
+    <Position X="7.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ApplicationEvents.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.My.MySettings" Collapsed="true">
+    <Position X="9.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAABAAIAAABAABAAQAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5" Collapsed="true">
+    <Position X="12.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kHMCB+E1KzJ7eSPUNRTSXeTFyTqeZjwFaJFQiautXRw=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.Laundry_DBDataSet" Collapsed="true">
+    <Position X="21.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABnAJCwBIAANABBiAQAABAUgCQBgQggAAIQEABhg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmAboutBox1" Collapsed="true">
+    <Position X="23.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAgAAASAAAAAAAACEAABCgAAAAAIAAACACAAQAAA=</HashCode>
+      <FileName>Forms\frmAboutBox1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmActivation" Collapsed="true">
+    <Position X="25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAAIAAAAACCAAAKAAAQYBABAIAAAgIAAAA=</HashCode>
+      <FileName>Forms\frmActivation.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmAdvanceEntry" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAANiAADAIQAACAACACREA6ZB4BIIAAAAMEAQQ=</HashCode>
+      <FileName>Forms\frmAdvanceEntry.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmAdvanceEntryRecord" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEyAADBAAAACAAQgCCAAAQBwBAKAAAIEEIIA=</HashCode>
+      <FileName>Forms\frmAdvanceEntryRecord.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmAdvanceEntryRecord1" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEyAADBAAAACAAQgCCAAAQBgBAKAAAIEEIIA=</HashCode>
+      <FileName>Forms\frmAdvanceEntryRecord1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmAdvanceEntryRecord2" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEyAADAAAAACAAQACCAA4RggBAKAAAAEAIIA=</HashCode>
+      <FileName>Forms\frmAdvanceEntryRecord2.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmAdvanceEntryReport" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAMyAAJAAAAACAAhgSCAAwZAABQIAAAAAEAIA=</HashCode>
+      <FileName>Forms\frmAdvanceEntryReport.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmAttendance" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIIgAAENiAADBITAACAAAISREA6ZBwBIqAAAAMEAQY=</HashCode>
+      <FileName>Forms\frmAttendance.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmAttendanceEntryRecord" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEyAADBAAAACAAQgCCAAAQBwBAKAAAAEEIIA=</HashCode>
+      <FileName>Forms\frmAttendanceRecord.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmAttendanceEntryRecord1" Collapsed="true">
+    <Position X="12.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEyAADBAAAACAAQgCCAAAQBgBAKAAAAEEIIA=</HashCode>
+      <FileName>Forms\frmAttendanceRecord1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmAttendanceEntryRecord2" Collapsed="true">
+    <Position X="14.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAESAADBAAAACAAQgCCAC4RhABAKAAAAEEIIA=</HashCode>
+      <FileName>Forms\frmAttendanceRecord2.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmCamera" Collapsed="true">
+    <Position X="16.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAECQAIEIAAACAAAACAAAAABAEgEQIEAIEgAA=</HashCode>
+      <FileName>Forms\frmCamera.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmCategory" Collapsed="true">
+    <Position X="18" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEAQAAAAFCAADAhQAICgAQACAAA4wBwBAIAAAAMAAQQ=</HashCode>
+      <FileName>Forms\frmCategory.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmChangePassword" Collapsed="true">
+    <Position X="19.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAAAAAAABCAAAgCAEAAQAAAAAAAAAAAIQA=</HashCode>
+      <FileName>Forms\frmChangePassword.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmCheckedInRecord" Collapsed="true">
+    <Position X="21.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAFyAADCAAACCAAUgSCABARAQBAIAAACEAIIA=</HashCode>
+      <FileName>Forms\frmCheckedInRecord.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmCheckedInRecord1" Collapsed="true">
+    <Position X="23.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAFyAADCAAAACAAUgSCAAARAABAIAAACEAIIA=</HashCode>
+      <FileName>Forms\frmCheckedInRecord1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmCheckedInRecord2" Collapsed="true">
+    <Position X="25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAFyAADCAAAACAAUgSCABARAQBAIAAACEAIIA=</HashCode>
+      <FileName>Forms\frmCheckedInRecord2.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmCheckedInRecord3" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAFyAADCAAAACAAUgSCAAARAQBQIAAACEAIIA=</HashCode>
+      <FileName>Forms\frmCheckedInRecord3.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmCheckedInRecord4" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEyAALAAAAACAARgSCAAAZAABAIAAAAEEIIA=</HashCode>
+      <FileName>Forms\frmCheckedInRecord4.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmCheckedInRecord5" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEyAALAAAAACAARgSCAAAZAABAIAAAAEEIIA=</HashCode>
+      <FileName>Forms\frmCheckedInRecord5.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmCheckIN_Room" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>g0EZBQKgNGkYzVo0EECBwnX+RDT++T6HoeLe5aJBSWQ=</HashCode>
+      <FileName>Forms\frmCheckIN_Room.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmCheckout_IdReport" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEyAALAAAAACAARgSCAAAZAABAIAAAAEEIIA=</HashCode>
+      <FileName>Forms\frmCheckout_IdReport.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmCheckOut_Room" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>g0EZBQKgNGkY5Vo0MECBwmP+BDT+6T+HoeLe5aJEySQ=</HashCode>
+      <FileName>Forms\frmCheckOut_Room.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmCheckOutRecord" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAFyAADCAAAACAAUgSCAAARAQBAIAAACEAIIA=</HashCode>
+      <FileName>Forms\frmCheckOutRecord.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmCheckOutRecord1" Collapsed="true">
+    <Position X="12.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAFyAADCAAAACAAUgSCAAARAABAIAAACEAIIA=</HashCode>
+      <FileName>Forms\frmCheckOutRecord1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmCheckoutReport" Collapsed="true">
+    <Position X="14.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAFyAALAAAAACAQ3gSCAAAdAgBAIAAAAEEIIA=</HashCode>
+      <FileName>Forms\frmCheckoutReport.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmClient" Collapsed="true">
+    <Position X="16.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUQYYIQIDsQIYkOgIKIIIBSJEAAcAAQBoCACEJABA4=</HashCode>
+      <FileName>Forms\frmClient.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmDeductionRecord" Collapsed="true">
+    <Position X="18" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEyAADBAAAACAAQgCCAAAQBgBAKAAAIEEIIA=</HashCode>
+      <FileName>Forms\frmDeductionRecord.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmDeductionReport" Collapsed="true">
+    <Position X="19.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAMyAAJAAAAACAAhgSCAAwZAABQIAAAAAEAIA=</HashCode>
+      <FileName>Forms\frmDeductionReport.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmDish" Collapsed="true">
+    <Position X="21.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAQIMAAFCAADAEQAACgACBCAAA4RBwBAIgAoAMAAQQ=</HashCode>
+      <FileName>Forms\frmDish.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmEmployeePayment" Collapsed="true">
+    <Position X="23.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEIJgCAINCMALAIQAQCAAAAG1HD/ZxwRJqAgAAskgQY=</HashCode>
+      <FileName>Forms\frmEmployeePayment.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmEmployeePaymentRecord" Collapsed="true">
+    <Position X="25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEyAADBAAAACAAQgCCAAAQBwBAKAAAAEEIIA=</HashCode>
+      <FileName>Forms\frmEmployeePaymentRecord.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmEmployeePaymentRecord1" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEyAADBAAAACAAQgCCAAAQBgBAKAAAAEEIIA=</HashCode>
+      <FileName>Forms\frmEmployeePaymentRecord1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmEmployeePaymentRecord2" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEyAADBAAAACAAQgCCAAAQBgBAKAAAAEEIIA=</HashCode>
+      <FileName>Forms\frmEmployeePaymentRecord2.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmEmployeePaymentReport" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAMyAAJAAAAACAAhgSCAAwZAABQIAAAAAEAIA=</HashCode>
+      <FileName>Forms\frmEmployeePaymentReport.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmEmployeeRegistration" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CFAAgAAANjAQJAIQCAiAACAChnD/YJolIIAAVgMMIZQ=</HashCode>
+      <FileName>Forms\frmEmployeeRegistration.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmEmployeesRecord" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEyAADAAAAACAAAACDAAAQAQBAIAAAAEAAIA=</HashCode>
+      <FileName>Forms\frmEmployeesRecord.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmEmployeesRecord1" Collapsed="true">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEyAADAAAAACAAQACDAAAQAABAIAAAAEAIIA=</HashCode>
+      <FileName>Forms\frmEmployeesRecord1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmExtraBed" Collapsed="true">
+    <Position X="11" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAQIAAAFCAADAAQAECAAQACAAA4RBwBAIAAAAMCAQQ=</HashCode>
+      <FileName>Forms\frmExtraBed.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmExtraPerson" Collapsed="true">
+    <Position X="12.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAQIAAAFCAADAAQAACAAQACAAA4RBwBAIAAAgMCAQQ=</HashCode>
+      <FileName>Forms\frmExtraPerson.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmFoodOrderBill" Collapsed="true">
+    <Position X="14.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEyAAJAAAACCEAAgCCAAAYAABAIAAAAAEAIA=</HashCode>
+      <FileName>Forms\frmFoodOrderBill.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmGarden" Collapsed="true">
+    <Position X="16.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEAQAAAAFCAADAIQAACAAQACAAA4RB4BAIAAAAMAAQQ=</HashCode>
+      <FileName>Forms\frmGarden.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmGardenReservationInvoice" Collapsed="true">
+    <Position X="18" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEyAAJAAAACCEAAgCCAAAYAABAIAAAAAEAIA=</HashCode>
+      <FileName>Forms\frmGardenReservationInvoice.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmGardenReservationReport" Collapsed="true">
+    <Position X="19.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAEyAAJAAAAACAQhgSCAAwZAABAIAAAAAEAIA=</HashCode>
+      <FileName>Forms\frmGardenReservationReport.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmGuest" Collapsed="true">
+    <Position X="21.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gkAAkAAAMCgALBIQEADEADgahUA4cB4FJOAAFgMMgBQ=</HashCode>
+      <FileName>Forms\frmGuest.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmGuestRecord" Collapsed="true">
+    <Position X="23.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAEyAADCAAAACAAAACCAAAQAQBAIAAAAEAAIA=</HashCode>
+      <FileName>Forms\frmGuestRecord.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmGuestRecord1" Collapsed="true">
+    <Position X="25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAEyAADCAAAACAAQACCAAAQAQBAIAAAAEAIIA=</HashCode>
+      <FileName>Forms\frmGuestRecord1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmGuestRecord2" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAEyAADCAAAACAAQACCAAAQAQBAIAAAAEAIIA=</HashCode>
+      <FileName>Forms\frmGuestRecord2.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmGuestRecord3" Collapsed="true">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAEyAADCAAAACAAQACCAAAQAQBAIAAAAEAIIA=</HashCode>
+      <FileName>Forms\frmGuestRecord3.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmGuestRecord4" Collapsed="true">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAEyAADCAAAACAAQACCIACQAABAIAAAAEAIIA=</HashCode>
+      <FileName>Forms\frmGuestRecord4.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmGuestReport" Collapsed="true">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEyAAJAAAAACEAAgCCAAAYAABAIAAAIAEAIA=</HashCode>
+      <FileName>Forms\frmGuestReport.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmHall" Collapsed="true">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAQAAAIFKAADAAQAACBAQACAAA4RBwBAIAAAAMAAQQ=</HashCode>
+      <FileName>Forms\frmHall.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmHallReservationInvoice" Collapsed="true">
+    <Position X="9.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEyAAJAAAACCEAAgCCAAAYAABAIAAAAAEAIA=</HashCode>
+      <FileName>Forms\frmHallReservationInvoice.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmHallReservationReport" Collapsed="true">
+    <Position X="11" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAMyAAJAAAAACAAhgSCAAwZAABAIAAAIAEAIA=</HashCode>
+      <FileName>Forms\frmHallReservationReport.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmHotel" Collapsed="true">
+    <Position X="12.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AFAQAAEANCBADAAQCACAAAACAEC4ZxwhBMSAAAMAAAA=</HashCode>
+      <FileName>Forms\frmHotel.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmIDType" Collapsed="true">
+    <Position X="14.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAQAAAAFCCgDAAQAACAAAACAAAIQBwBAIAAAANAAQQ=</HashCode>
+      <FileName>Forms\frmIDType.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmLaundryBill" Collapsed="true">
+    <Position X="18" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEyAAJAAAACCEAAgCCAAAYAABAIAAAAAEAIA=</HashCode>
+      <FileName>Forms\frmLaundryBill.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmLaundryBilling" Collapsed="true">
+    <Position X="19.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gEGAAAAEFCgQJQIwAACEQEpiJAD75NkJIKDOASJExQQ=</HashCode>
+      <FileName>Forms\frmLaundryBilling.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmLaundryBillingRecord" Collapsed="true">
+    <Position X="21.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAABAEyAADCAAACCAAQgSCAAAREQBAIAAAAEAIIA=</HashCode>
+      <FileName>Forms\frmLaundryBillingRecord.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmLaundryBillingRecord1" Collapsed="true">
+    <Position X="23.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAABAEyAADCAAACCAAQgSCAAAREABAIAAAAEAIIA=</HashCode>
+      <FileName>Forms\frmLaundryBillingRecord1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmLaundry_master" Collapsed="true">
+    <Position X="16.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEAQAAAAFCCgDAAQAACAAAACAAAoQBwBCIAAAAMCAQQ=</HashCode>
+      <FileName>Forms\frmLaundryMaster.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmLiquor" Collapsed="true">
+    <Position X="25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkAQIOCAFCAADAAQAACEACACAAI4RBwBAIAAoAMAAQQ=</HashCode>
+      <FileName>Forms\frmLiquor.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmLiquorCategory" Collapsed="true">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEAQAAAAFCAADAhQAICgAQACAAA4wBwBAIAAAAMAAQQ=</HashCode>
+      <FileName>Forms\frmLiquorCategory.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmLiquorQuantity" Collapsed="true">
+    <Position X="2.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAQAAAAHCAhDAAQAACAAAAiAAAIQBwBAIAAAAMAgQQ=</HashCode>
+      <FileName>Forms\frmLiquorQuantity.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmLiquorRate" Collapsed="true">
+    <Position X="4" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkAQAMAANKAADAAQAACEAAhCYAI4RBwBIIAAgAMAAQQ=</HashCode>
+      <FileName>Forms\frmLiquorRate.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmLogin" Collapsed="true">
+    <Position X="5.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAgAAAQQECAAEBEgABSAABgCAAAAaEADCEgAAAAAAAA=</HashCode>
+      <FileName>Forms\frmLogin.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmLogs" Collapsed="true">
+    <Position X="7.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAIAAAEyAADAIAAACAAQATDAg4RAABAIAAAIEAIIA=</HashCode>
+      <FileName>Forms\frmLogs.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmMainMenu" Collapsed="true">
+    <Position X="9.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>zm0bafvcn/z97a259/33zZYSv/j7/4s/33NvwuVNL4o=</HashCode>
+      <FileName>Forms\frmMainMenu.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmOrder" Collapsed="true">
+    <Position X="11" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gkeAAEAIHOAgLYIywACFTELqJXH/bxkbYvXvASNE5RQ=</HashCode>
+      <FileName>Forms\frmOrder.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmOrdersRecord" Collapsed="true">
+    <Position X="12.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAABAEyAADCAAACCAAQgSCAAAREQBAIAAAAEAIIA=</HashCode>
+      <FileName>Forms\frmOrdersRecord.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmOrdersRecord1" Collapsed="true">
+    <Position X="14.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAABAEyAADCAAACCAEzkSCAD1dEABAIAAAAEAIIE=</HashCode>
+      <FileName>Forms\frmOrdersRecord1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmOthersRecord" Collapsed="true">
+    <Position X="16.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAgAAAAECAABAAAAACAhjoCBACwcBUxAoAAAABHAAA=</HashCode>
+      <FileName>Forms\frmOthersRecord.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmPurchasedInventory" Collapsed="true">
+    <Position X="18" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAASAQAFCCABEIwAgC0AGAiFAIIYBgBIIEAAgJAgwQ=</HashCode>
+      <FileName>Forms\frmPurchasedInventory.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmPurchasedInventoryRecord" Collapsed="true">
+    <Position X="19.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggBhIgQgEKEAlxA4+s+wzj8CFCPycB/5AbAqAphHAEA=</HashCode>
+      <FileName>Forms\frmPurchasedInventoryRecord.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmPurchasedInventoryRecord1" Collapsed="true">
+    <Position X="21.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hgBhIgQgEKEAlxA4+s+wzn8CFCPycB/5AbEqAphHAEA=</HashCode>
+      <FileName>Forms\frmPurchasedInventoryRecord1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmRegistration" Collapsed="true">
+    <Position X="23.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgQAAEAFCAgDAAQiACAAAACAAA4RxwhAIAAAAMAAQQ=</HashCode>
+      <FileName>Forms\frmRegistration.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmReport" Collapsed="true">
+    <Position X="25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACBAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Forms\frmReport.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmReservation" Collapsed="true">
+    <Position X="0.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gkAAQAACNCAYjAIQAACASEQCRAAIYBgDIKAAgIIAAQw=</HashCode>
+      <FileName>Forms\frmReservation.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmReservation_HallorGarden" Collapsed="true">
+    <Position X="2.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kkEJRACANGgAZVI0UACAQiN7TDD54VmBqeDeJYJEwUQ=</HashCode>
+      <FileName>Forms\frmReservation_HallorGarden.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmReservationRecord" Collapsed="true">
+    <Position X="4" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAFyAADCAAACCAAUgSCAC4ZwQBAIAAACEAIIA=</HashCode>
+      <FileName>Forms\frmReservationRecord.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmReservationRecord_HallOrGarden" Collapsed="true">
+    <Position X="5.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAMyAADAAAAACAQxgSCAAwZAQBAIAAAIEAIIA=</HashCode>
+      <FileName>Forms\frmReservationRecord_HallOrGarden.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmReservationRecord_HallOrGarden1" Collapsed="true">
+    <Position X="7.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAABAAAMyAIDAAAAACAQxgSCAAwZABBAIAAAIEAIIA=</HashCode>
+      <FileName>Forms\frmReservationRecord_HallOrGarden1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmReservationRecord1" Collapsed="true">
+    <Position X="9.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAFyAADCAAACCBAUgSCAC4ZwABAIAAACEAIIA=</HashCode>
+      <FileName>Forms\frmReservationRecord1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmReservationRecord2" Collapsed="true">
+    <Position X="11" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAFyAADCAAAACAAUgSCAC4ZwQBAIAAACEAIIA=</HashCode>
+      <FileName>Forms\frmReservationRecord2.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmRestaurantBill" Collapsed="true">
+    <Position X="12.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEyAAJAAAACCEAAgCCAAAYAABAIAAAAAEAIA=</HashCode>
+      <FileName>Forms\frmRestaurantBill.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmRestaurantBilling" Collapsed="true">
+    <Position X="14.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkaAAEAIHOAgLYI2wADFDELKJXH/bxkbYtXvAQNE5RQ=</HashCode>
+      <FileName>Forms\frmRestaurantBilling.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmRestaurantBillingKOT" Collapsed="true">
+    <Position X="16.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkaAAEAoXeAgLcI2wADF3ntKJfH/bxl7YtXvAQNE5RQ=</HashCode>
+      <FileName>Forms\frmRestaurantBillingKOT.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmRestaurantBillingRecord" Collapsed="true">
+    <Position X="18" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAEyAADAAAACCAAQgSCAAAREQBAIAAAAEAIIA=</HashCode>
+      <FileName>Forms\frmRestaurantBillingRecord.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmRestaurantBillingRecord1" Collapsed="true">
+    <Position X="19.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAEyAADAAAACCAEzkSCAD0dEABAIAAAAEAIIE=</HashCode>
+      <FileName>Forms\frmRestaurantBillingRecord1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmRestaurantBillingReport" Collapsed="true">
+    <Position X="21.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAESgAJAAAAACAAAASCAAARAABAIAAAAAEIAA=</HashCode>
+      <FileName>Forms\frmRestaurantBillingReport.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmRoom" Collapsed="true">
+    <Position X="23.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAQYEAAFCAADAAQAACiAEADAAB4QBwBAIAAAAMCAQQ=</HashCode>
+      <FileName>Forms\frmRoom.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmRoomAvailability" Collapsed="true">
+    <Position X="25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAIiAAAAACAAAACAAA4YAAhAIAAAAEAAAI=</HashCode>
+      <FileName>Forms\frmRoomAvailability.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmRoomBill" Collapsed="true">
+    <Position X="0.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEyAAJAAAACCEAAgCCAAAYAABAIAAAAAEAIA=</HashCode>
+      <FileName>Forms\frmRoomBill.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmRoomOrdersReport" Collapsed="true">
+    <Position X="2.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAESgAJAAAAACAAAASCAAARAABEIAAAAAEAAA=</HashCode>
+      <FileName>Forms\frmRoomOrdersReport.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmRoomReservationReport" Collapsed="true">
+    <Position X="4" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAESAAJAAAAACAAhACCAAAIAABAIAAAAAEAIA=</HashCode>
+      <FileName>Forms\frmRoomReservationReport.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmRoomType" Collapsed="true">
+    <Position X="5.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAQAAAAFCCgDAgQAACAAAACAAAIQBwBAIAAAAMAAQQ=</HashCode>
+      <FileName>Forms\frmRoomType.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmSalaryslip" Collapsed="true">
+    <Position X="7.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEyAAJAAAAACAAAgCCAAAYAABAIAAAAAMAIE=</HashCode>
+      <FileName>Forms\frmSalaryslip.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmSalarySlipsReport" Collapsed="true">
+    <Position X="9.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAMyAAJAAAAACAAhgSCAAwZAABQIAAAAAEAIA=</HashCode>
+      <FileName>Forms\frmSalarySlipsReport.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmSecurityCheck" Collapsed="true">
+    <Position X="11" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgAAAAAESAABAAAAACAAIACCAAAQEABAIAAAAAAAAA=</HashCode>
+      <FileName>Forms\frmSecurityCheck.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmServer" Collapsed="true">
+    <Position X="12.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAaQAwIwoHgwI4kMhIKKYAbaJ+AAdAAABIoRKEAgxAk=</HashCode>
+      <FileName>Forms\frmServer.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmSplash">
+    <Position X="14.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECgAMAAAAACCAAAKAAAQAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Forms\frmSplash.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmStock" Collapsed="true">
+    <Position X="16.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEACACAAFKAADgAQAACAADgSYAAIdBwBIIAAQAMAAYw=</HashCode>
+      <FileName>Forms\frmStock.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmStockRecord" Collapsed="true">
+    <Position X="18" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAEyAADgAAAACAAQACCAA4BAABAIAAAAEAIIA=</HashCode>
+      <FileName>Forms\frmStockRecord.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmSystemInfo" Collapsed="true">
+    <Position X="19.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAACkkCgAAQAsCACIEQACDADwAIACAAAAAAVAAAM=</HashCode>
+      <FileName>Forms\frmSystemInfo.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmTable" Collapsed="true">
+    <Position X="21.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAQQAAAFCCgDAAQCACAAAACAAQoQB0BAIAAAQMAAQQ=</HashCode>
+      <FileName>Forms\frmTable.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmTax" Collapsed="true">
+    <Position X="23.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAQIIAAFCAADABQAACgAQACAAA4RBwBAIACIAMAAQQ=</HashCode>
+      <FileName>Forms\frmTax.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmTransaction" Collapsed="true">
+    <Position X="25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CEAAAQAEFiAADCIQAAGQigASBAgIRLgBYKgAAAIAAQQ=</HashCode>
+      <FileName>Forms\frmTransaction.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmTransactionRecord" Collapsed="true">
+    <Position X="0.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgAgAAAAMiAABRAAgAmA1nsCBACAcB85BKEAAABHBAA=</HashCode>
+      <FileName>Forms\frmTransactionRecord.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.frmTransactionRecord1" Collapsed="true">
+    <Position X="2.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAgAAAAMiAABRAAAAmA1jsCBACAcB85BKAAAABHBAA=</HashCode>
+      <FileName>Forms\frmTransactionRecord1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.Encryption" Collapsed="true">
+    <Position X="18" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAQACAAAAQAAAAAAAAAAAAAAAAAAAIAABAAAAAA=</HashCode>
+      <FileName>Modules\Encryption.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.rptAdvanceEntry" Collapsed="true">
+    <Position X="5.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAJAAAQAAAAAAAIAAAAAIAAAAAACAABAAAABAA=</HashCode>
+      <FileName>Reports\rptAdvanceEntry.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.CachedrptAdvanceEntry" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reports\rptAdvanceEntry.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hotel_Management_System.rptCheckIn" Collapsed="true">
+    <Position X="7.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABJAAAQAAAAAAAIAAAAAIAAAAAADAABAAAABAA=</HashCode>
+      <FileName>Reports\rptCheckIn.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.CachedrptCheckIn" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reports\rptCheckIn.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hotel_Management_System.rptCheckIn_ID" Collapsed="true">
+    <Position X="9.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABJAAAQAAAAAAAIAAAAAIAAAAAADAABAAAABAA=</HashCode>
+      <FileName>Reports\rptCheckIn_ID.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.CachedrptCheckIn_ID" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reports\rptCheckIn_ID.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hotel_Management_System.rptCheckOut" Collapsed="true">
+    <Position X="11" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABJAAAQAAAAAAAIAAAAAIAAAAAADAABAAAABAA=</HashCode>
+      <FileName>Reports\rptCheckOut.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.CachedrptCheckOut" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reports\rptCheckOut.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hotel_Management_System.rptCheckOut_ID" Collapsed="true">
+    <Position X="12.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABJAAAQAAAAAAAIAAAAAIAAAAAADAABAAAABAA=</HashCode>
+      <FileName>Reports\rptCheckOut_ID.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.CachedrptCheckOut_ID" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reports\rptCheckOut_ID.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hotel_Management_System.rptCheckOut_Room" Collapsed="true">
+    <Position X="14.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABJAAAQAAAAAAAIAAAAAIAAAAAADAABAAAABAA=</HashCode>
+      <FileName>Reports\rptCheckOut_Room.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.CachedrptCheckOut_Room" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reports\rptCheckOut_Room.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hotel_Management_System.rptCheckOut1" Collapsed="true">
+    <Position X="16.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABJAAAQAAAAAAAIAAAAAIAAAAAADAABAAAABAA=</HashCode>
+      <FileName>Reports\rptCheckOut1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.CachedrptCheckOut1" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reports\rptCheckOut1.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hotel_Management_System.rptDeduction" Collapsed="true">
+    <Position X="18" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAJAAAQAAAAAAAIAAAAAIAAAAAACAABAAAABAA=</HashCode>
+      <FileName>Reports\rptDeduction.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.CachedrptDeduction" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reports\rptDeduction.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hotel_Management_System.rptEmployeePayment" Collapsed="true">
+    <Position X="19.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABJAgAQAAAAAAAIAAAAAIAAAAAADgABAAAABAA=</HashCode>
+      <FileName>Reports\rptEmployeePayment.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.CachedrptEmployeePayment" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reports\rptEmployeePayment.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hotel_Management_System.rptEmployeePayment1" Collapsed="true">
+    <Position X="21.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABJAAAQAAAAAAAIAAAAAIAAAAAADAABAAAABAA=</HashCode>
+      <FileName>Reports\rptEmployeePayment1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.CachedrptEmployeePayment1" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reports\rptEmployeePayment1.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hotel_Management_System.rptGardenInvoice" Collapsed="true">
+    <Position X="23.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAJAAAQAAAAAAAIAAAAAAAAAAAACAABAAAABAA=</HashCode>
+      <FileName>Reports\rptGardenInvoice.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.CachedrptGardenInvoice" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="21.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reports\rptGardenInvoice.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hotel_Management_System.rptGardenReseravation" Collapsed="true">
+    <Position X="25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABJAAAQAAAAAAAIAAAAAIAAAAAADAABAAAABAA=</HashCode>
+      <FileName>Reports\rptGardenReseravation.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.CachedrptGardenReseravation" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="23.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reports\rptGardenReseravation.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hotel_Management_System.rptGardenReseravation1" Collapsed="true">
+    <Position X="0.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABJAAAQAAAAAAAIAAAAAIAAAAAADAABAAAABAA=</HashCode>
+      <FileName>Reports\rptGardenReseravation1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.CachedrptGardenReseravation1" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reports\rptGardenReseravation1.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hotel_Management_System.rptGuest" Collapsed="true">
+    <Position X="2.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABJAAAQAAAAAAAIAAAAAAAAAAAADAABAAAABAA=</HashCode>
+      <FileName>Reports\rptGuest.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.CachedrptGuest" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reports\rptGuest.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hotel_Management_System.rptHallInvoice" Collapsed="true">
+    <Position X="4" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAJAAAQAAAAAAAIAAAAAAAAAAAACAABAAAABAA=</HashCode>
+      <FileName>Reports\rptHallInvoice.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.CachedrptHallInvoice" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reports\rptHallInvoice.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hotel_Management_System.rptHallReservation" Collapsed="true">
+    <Position X="5.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABJAAAQAAAAAAAIAAAAAIAAAAAADAABAAAABAA=</HashCode>
+      <FileName>Reports\rptHallReservation.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.CachedrptHallReservation" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reports\rptHallReservation.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hotel_Management_System.rptHallReservation1" Collapsed="true">
+    <Position X="7.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABJAAAQAAAAAAAIAAAAAIAAAAAADAABAAAABAA=</HashCode>
+      <FileName>Reports\rptHallReservation1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.CachedrptHallReservation1" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reports\rptHallReservation1.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hotel_Management_System.rptLaundryBillingInvoice" Collapsed="true">
+    <Position X="9.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABJAAAQAAAAAAAIAAAAAAAAAAAADAABAAAABAA=</HashCode>
+      <FileName>Reports\rptLaundryBillingInvoice.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.CachedrptLaundryBillingInvoice" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reports\rptLaundryBillingInvoice.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hotel_Management_System.rptRestaurantBilling" Collapsed="true">
+    <Position X="11" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABJAgAQAAAAAAAIAAAAAIAAAAAADgABAAAABAA=</HashCode>
+      <FileName>Reports\rptRestaurantBilling.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.CachedrptRestaurantBilling" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reports\rptRestaurantBilling.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hotel_Management_System.rptRestaurantBillingInvoice" Collapsed="true">
+    <Position X="12.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABJAAAQAAAAAAAIAAAAAAAAAAAADAABAAAABAA=</HashCode>
+      <FileName>Reports\rptRestaurantBillingInvoice.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.CachedrptRestaurantBillingInvoice" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reports\rptRestaurantBillingInvoice.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hotel_Management_System.rptRoomInvoice" Collapsed="true">
+    <Position X="14.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAJAAAQAAAAAAAIAAAAAAAAAAAACAABAAAABAA=</HashCode>
+      <FileName>Reports\rptRoomInvoice1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.CachedrptRoomInvoice" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reports\rptRoomInvoice1.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hotel_Management_System.rptRoomOrderInvoice" Collapsed="true">
+    <Position X="16.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAggAABJAAAQAAAAAAAIAAAAAAAAAAAADAABAAAABAA=</HashCode>
+      <FileName>Reports\rptRoomOrderInvoice.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.CachedrptRoomOrderInvoice" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reports\rptRoomOrderInvoice.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hotel_Management_System.rptRoomOrderInvoice1" Collapsed="true">
+    <Position X="18" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAggAABJAAAQAAAAAAAIAAAAAAAAAAAADAABAAAABAA=</HashCode>
+      <FileName>Reports\rptRoomOrderInvoice1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.CachedrptRoomOrderInvoice1" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reports\rptRoomOrderInvoice1.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hotel_Management_System.rptRoomOrders" Collapsed="true">
+    <Position X="19.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABJAgAQAAAAAAAIAAAAAIAAAAAADgABAAAABAA=</HashCode>
+      <FileName>Reports\rptRoomOrders.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.CachedrptRoomOrders" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reports\rptRoomOrders.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hotel_Management_System.rptRoomOrders1" Collapsed="true">
+    <Position X="21.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABJAgAQAAAAAAAIAAAAAIAAAAAADgABAAAABAA=</HashCode>
+      <FileName>Reports\rptRoomOrders1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.CachedrptRoomOrders1" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reports\rptRoomOrders1.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hotel_Management_System.rptRoomReservation" Collapsed="true">
+    <Position X="23.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABJAAAQAAAAAAAIAAAAAIAAAAAADAABAAAABAA=</HashCode>
+      <FileName>Reports\rptRoomReservation.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.CachedrptRoomReservation" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="21.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reports\rptRoomReservation.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hotel_Management_System.rptSalarySlip" Collapsed="true">
+    <Position X="25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAJAAAQAAAAAAAIAAAAAIAAAAAACAABAAAABAA=</HashCode>
+      <FileName>Reports\rptSalarySlip.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.CachedrptSalarySlip" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="23.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reports\rptSalarySlip.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hotel_Management_System.rptSalarySlips" Collapsed="true">
+    <Position X="0.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABJAAAQAAAAAAAIAAAAAIAAAAAADAABAAAABAA=</HashCode>
+      <FileName>Reports\rptSalarySlips.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.CachedrptSalarySlips" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reports\rptSalarySlips.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hotel_Management_System.rptSalarySlips1" Collapsed="true">
+    <Position X="2.25" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABJAAAQAAAAAAAIAAAAAIAAAAAADAABAAAABAA=</HashCode>
+      <FileName>Reports\rptSalarySlips1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.CachedrptSalarySlips1" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAFAEAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reports\rptSalarySlips1.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.ActivationTableAdapter">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.AdvanceEntryTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.CategoryTableAdapter" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.Category_LiquorTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.CheckIN_RoomTableAdapter" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.Checkout_RoomTableAdapter" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.DishTableAdapter" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.EmployeeAttendanceTableAdapter" Collapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.EmployeePaymentTableAdapter" Collapsed="true">
+    <Position X="14.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.EmployeeRegistrationTableAdapter" Collapsed="true">
+    <Position X="16.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.ExtraBedTableAdapter" Collapsed="true">
+    <Position X="19.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.ExtraPersonTableAdapter" Collapsed="true">
+    <Position X="21.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.GardenTableAdapter" Collapsed="true">
+    <Position X="4" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.GuestTableAdapter" Collapsed="true">
+    <Position X="7.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.Guest_DocsTableAdapter" Collapsed="true">
+    <Position X="5.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.HallTableAdapter" Collapsed="true">
+    <Position X="11" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.HotelTableAdapter" Collapsed="true">
+    <Position X="16.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.IDTypeTableAdapter" Collapsed="true">
+    <Position X="18" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.LiquorTableAdapter" Collapsed="true">
+    <Position X="4" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.Liquor_RateTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.Liquor_VolumnTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.LogsTableAdapter" Collapsed="true">
+    <Position X="5.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.PurchasedInventoryTableAdapter" Collapsed="true">
+    <Position X="11" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.RegistrationTableAdapter" Collapsed="true">
+    <Position X="12.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.ReservationTableAdapter" Collapsed="true">
+    <Position X="18" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.Reservation_GardenTableAdapter" Collapsed="true">
+    <Position X="14.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.Reservation_HallTableAdapter" Collapsed="true">
+    <Position X="16.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.Restaurant_OrderedProductTableAdapter" Collapsed="true">
+    <Position X="19.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.Restaurant_OrderInfoTableAdapter" Collapsed="true">
+    <Position X="21.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.RoomTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.Room_OrderedProductTableAdapter" Collapsed="true">
+    <Position X="23.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.Room_OrderInfoTableAdapter" Collapsed="true">
+    <Position X="25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.RoomTypeTableAdapter" Collapsed="true">
+    <Position X="4" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.StockTableAdapter" Collapsed="true">
+    <Position X="4" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.TaxTableAdapter" Collapsed="true">
+    <Position X="9.25" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.Temp_ReservationTableAdapter" Collapsed="true">
+    <Position X="11" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.Temp_StockTableAdapter" Collapsed="true">
+    <Position X="12.75" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.TransTableAdapter" Collapsed="true">
+    <Position X="14.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.HMS_DBDataSet5TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="7.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ETQjRCAVyGFQZA1JIIQgMiQlAjoXlhRwOAYMFhkAHBw=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.Laundry_DBDataSetTableAdapters.CheckIN_RoomTableAdapter" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.Laundry_DBDataSetTableAdapters.GuestTableAdapter" Collapsed="true">
+    <Position X="9.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.Laundry_DBDataSetTableAdapters.HotelTableAdapter">
+    <Position X="14.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.Laundry_DBDataSetTableAdapters.Laundry_BillInfoTableAdapter" Collapsed="true">
+    <Position X="19.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.Laundry_DBDataSetTableAdapters.Laundry_MasterTableAdapter" Collapsed="true">
+    <Position X="23.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.Laundry_DBDataSetTableAdapters.LaundryServicesTableAdapter" Collapsed="true">
+    <Position X="25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.Laundry_DBDataSetTableAdapters.RoomTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotel_Management_System.Laundry_DBDataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="5.75" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ERAgBiAAAABADAEBAAAAMAAgAAACgAQKAAQAEAAABAw=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="Hotel_Management_System.My.MySettingsProperty" Collapsed="true">
+    <Position X="5.75" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Hotel_Management_System.ConnectionString" Collapsed="true">
+    <Position X="0.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Modules\ConnectionString.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Hotel_Management_System.ModClasses" Collapsed="true">
+    <Position X="2.25" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACQAAgAQAQAAAAAAAAAAAAACAAACABA=</HashCode>
+      <FileName>Modules\ModClasses.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Hotel_Management_System.ModFunc" Collapsed="true">
+    <Position X="4" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modules\ModFunc.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Hotel_Management_System.My.Resources.Resources" Collapsed="true">
+    <Position X="7.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>7xAGBiJ7aID1JGE8kBJJkZQcMxEKDAgACA4CIEJgAMI=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

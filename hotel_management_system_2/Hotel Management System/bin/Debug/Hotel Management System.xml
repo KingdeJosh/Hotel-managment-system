@@ -1,0 +1,1594 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HotelManagementSystem
+</name>
+</assembly>
+<members>
+<member name="M:Hotel_Management_System.Encryption.Boring(System.String)">
+	<summary>
+ moving all characters in string insert then into new index
+ </summary>
+	<param name="st">string to moving characters</param>
+	<returns>moved characters string</returns>
+</member><member name="M:Hotel_Management_System.CustomAppointmentForm.LoadFormData(DevExpress.XtraScheduler.Appointment)">
+	<summary>
+ Add your code to obtain a custom field value and fill the editor with data.
+ </summary>
+</member><member name="M:Hotel_Management_System.CustomAppointmentForm.SaveFormData(DevExpress.XtraScheduler.Appointment)">
+	<summary>
+ Add your code to retrieve a value from the editor and set the custom appointment field.
+ </summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.ActivationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.AdvanceEntryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.BeerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.CheckIN_RoomDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Checkout_RoomDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.CurrencySetDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.DateTempDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.DishDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.EmployeeAttendanceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.EmployeePaymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.EmployeeRegistrationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.ExtraBedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.GardenDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.GuestDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.HallDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.HotelInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.InventoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.LiquorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Liquor_masterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Order_InfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.OrderedProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.PurchasedInventoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.RegistrationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.ReservationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Reservation_HallandGardenDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Reservation_HallorGardenDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Restaurant_OrderInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.RestaurantOrderedProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.RoomDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.SchedulingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.StockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Stock_BeerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.StudentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Tax_orderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Tax_ReservationHallandGardenDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Tax_ReservationHallorGardenDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Tax_RestaurantorderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Tax_RoomDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.TaxinfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Temp_ReservationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.TransDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.UsersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.qry_BookingsBaseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.qry_BookingsPaddedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.qry_DateTempDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.qry_RoomDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.ActivationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.AdvanceEntryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.BeerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.CheckIN_RoomRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Checkout_RoomRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.CurrencySetRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.DateTempRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.DishRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.EmployeeAttendanceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.EmployeePaymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.EmployeeRegistrationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.ExtraBedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.GardenRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.GuestRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.HallRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.HotelInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.InventoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.LiquorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Liquor_masterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Order_InfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.OrderedProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.PurchasedInventoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.RegistrationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.ReservationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Reservation_HallandGardenRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Reservation_HallorGardenRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Restaurant_OrderInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.RestaurantOrderedProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.RoomRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.SchedulingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.StockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Stock_BeerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.StudentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Tax_orderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Tax_ReservationHallandGardenRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Tax_ReservationHallorGardenRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Tax_RestaurantorderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Tax_RoomRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.TaxinfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Temp_ReservationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.TransRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.UsersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.qry_BookingsBaseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.qry_BookingsPaddedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.qry_DateTempRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.qry_RoomRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.ActivationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.AdvanceEntryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.BeerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.CheckIN_RoomRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Checkout_RoomRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.CurrencySetRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.DateTempRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.DishRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.EmployeeAttendanceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.EmployeePaymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.EmployeeRegistrationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.ExtraBedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.GardenRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.GuestRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.HallRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.HotelInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.InventoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.LiquorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Liquor_masterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Order_InfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.OrderedProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.PurchasedInventoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.RegistrationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.ReservationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Reservation_HallandGardenRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Reservation_HallorGardenRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Restaurant_OrderInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.RestaurantOrderedProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.RoomRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.SchedulingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.StockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Stock_BeerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.StudentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Tax_orderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Tax_ReservationHallandGardenRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Tax_ReservationHallorGardenRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Tax_RestaurantorderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Tax_RoomRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.TaxinfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.Temp_ReservationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.TransRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.UsersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.qry_BookingsBaseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.qry_BookingsPaddedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.qry_DateTempRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet.qry_RoomRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.ActivationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.AdvanceEntryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.BeerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.CheckIN_RoomTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.Checkout_RoomTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.CurrencySetTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.DateTempTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.DishTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.EmployeeAttendanceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.EmployeePaymentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.EmployeeRegistrationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.ExtraBedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.GardenTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.GuestTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.HallTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.HotelInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.InventoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.LiquorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.Liquor_masterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.Order_InfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.OrderedProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.PurchasedInventoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.RegistrationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.ReservationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.Reservation_HallandGardenTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.Reservation_HallorGardenTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.Restaurant_OrderInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.RestaurantOrderedProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.RoomTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.SchedulingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.StockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.Stock_BeerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.StudentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.Tax_orderTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.Tax_ReservationHallandGardenTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.Tax_ReservationHallorGardenTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.Tax_RestaurantorderTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.Tax_RoomTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.TaxinfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.Temp_ReservationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.TransTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.UsersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.qry_BookingsBaseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.qry_BookingsPaddedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.qry_DateTempTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.qry_RoomTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Hotel_Management_System.HMS_DBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Hotel_Management_System.HMS_DBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Hotel_Management_System.HMS_DBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Hotel_Management_System.HMS_DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Hotel_Management_System.HMS_DBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Hotel_Management_System.HMS_DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Hotel_Management_System.HMS_DBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Hotel_Management_System.HMS_DBDataSetTableAdapters.TableAdapterManager.UpdateAll(Hotel_Management_System.HMS_DBDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Hotel_Management_System.HMS_DBDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources._0002992740595_Color_Sky_Blue_SW_60X60">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources._0088181331020_Color_Sky_Blue_SW_60X60">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources._1__11_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources._1__35_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources._11949857921496995420hotel_icon_in_room_bagg_01_svg_med">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources._11949857921496995420hotel_icon_in_room_bagg_01_svg1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources._12">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources._1466125">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources._14661251">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources._17849_pattern">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources._17849_pattern1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources._2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources._21">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources._3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources._4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources._5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources._6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources._9249885206531349681">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.A">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.A1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Add">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.AddFile_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.AddFile_32x321">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.AddFile_32x322">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.AddFile_32x323">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.ALetter">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.AssignTo_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.AssignTo_32x321">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.attendance_list_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Background_books_entry4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Bar_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.booking_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.BringToFront_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.BringToFront_32x321">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.c5eea9b377ba">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.calen">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Calendar_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Cancel_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.ChartsShowLegend_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Clear_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Close_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Close_32x321">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Close_32x3211">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Code_Vortex_4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.ColorTheoryMixture">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Content_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.corp_employee_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Country_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Currency_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Currency_32x321">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Currency_32x322">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.CustomLoginForms_02">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.database_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Delete">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.DeleteRed">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Designer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.DrillDownOnSeries_Pie_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.DSC_0393">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Edit_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Edit_32x321">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Edit_32x322">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.EditContact_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.EditContact_32x321">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Employee_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.employeesIcon200">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.employeesIcon2001">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Export_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Filter_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.FilterBySeries_Chart_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Find_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Find_32x321">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.FindByID_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.FindCustomers_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.FullStackedArea_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Grid">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Grid_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Grid_32x321">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.GuestIcon_BIG">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.HighLowClose_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.hotel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.hotel_icon_has_secure_storage_in_room_md">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.hotel1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.hotspot___Copy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.hotspot___Copy___Copy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.hotspot___Copy___Copy__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.hotspot___Copy___Copy__2_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.hotspot___Copy1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.houak_phototour24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.icon_ci_big">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.icon_eps02">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Icon_three">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Image_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.image_of_a_person_in_bed">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.image_of_a_person_in_bed1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images_5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images_6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images12">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.images51">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.IndentDecrease_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Insert_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.InsertRangeFilter_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.kvirc">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.kwrite">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.lassist">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.lassists">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.LCD_Room">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.List_manager">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.LoadPageSetup_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.LoadPageSetup_32x321">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.lock">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.lock_go">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Login_Page">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Login_Page1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.logout">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.logout1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.looknfeel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.messenger1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.NewContact_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Notes_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Objects">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.old_rift_valley_hotel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.order_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.PackageProduct_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.PageSetup_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Paste_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Paste_32x321">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.payroll">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.payroll_services">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.payroll1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.payroll11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.payroll2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.payroll3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Pencil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Pivot_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Pivot_32x321">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.plain_natural_fiber_wallpaper_110629_maya_romanoff1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.plain_wallpaper_138030">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.preview">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Properties_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Properties_32x321">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.PublicFix_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.PublicFix_32x321">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.PublicFix_32x322">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.received_1071591766206142">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Report_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Report_32x321">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.rift_valley_hotel__the_new_bulilding">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Role_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Salaries_sml">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.salary_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.salary_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.SaveAll_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.SaveAll_32x321">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.SaveAll_32x322">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.SaveAll_32x323">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.SavePageSetup_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Seminyak_Icon_Hotel_One_Bedroom_Pool_Villa">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Seminyak_Icon_Hotel_Two_Bedroom_Pool_Villa_Twin_Hollywood_Bed">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.ShowTestReport_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.ShowTestReport_32x321">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.ShowWorkTimeOnly_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.small_business_payroll_service">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.stock_icon_v_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.SwitchTimeScalesTo_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Tag_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Team_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Team_32x321">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Team_32x322">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.textures_wallpapers_simple_and_beautifull_wood_texture_backgrounds1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.time_1920x1200">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.time_1920x12001">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Time_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.top_image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Up_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.User_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.UserGroup_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.videos_4_background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Watermark_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.WeekEnd_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.WeekView_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.wood_floor_wallpaper">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.wood_floor_wallpaper1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.wood_floor_wallpaper2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Work_area">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.Yes">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hotel_Management_System.My.Resources.Resources.YUV_color_space">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Hotel_Management_System.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
